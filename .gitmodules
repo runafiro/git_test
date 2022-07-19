@@ -1,0 +1,3 @@
+[submodule "testdir"]
+	path = testdir
+	url = https://github.com/runafiro/test.git
